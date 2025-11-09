@@ -33,4 +33,4 @@ Use slicers to explore billionaires by country, industry, or net worth range.
 Data inspired by the Forbes Billionaires 2025 list.
 
 📸 Preview
-<img width="926" height="347" alt="image" src="https://github.com/user-attachments/assets/f85df231-48e0-4012-a4c8-1de9c9d7a52a" /><
+<img width="926" height="347" alt="image" src="https://github.com/user-attachments/assets/f85df231-48e0-4012-a4c8-1de9c9d7a52a" />
